@@ -1,0 +1,1 @@
+is the example about web service client
